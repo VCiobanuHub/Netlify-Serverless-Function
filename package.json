@@ -1,0 +1,24 @@
+{
+  "name": "auth0-serverless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VCiobanuHub/Netlify-Serverless-Function.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VCiobanuHub/Netlify-Serverless-Function/issues"
+  },
+  "homepage": "https://github.com/VCiobanuHub/Netlify-Serverless-Function#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
